@@ -17,8 +17,8 @@ Two example R toolboxes are provided as proof of concept showing how R can be in
 
 In the first example a tool called 'BCFWA Streamline USDS' is provided to show how custom R functionlaity can be used to leverage networking capabilites of the BCFWA. By selecting target stream reaches users can identify all upstream and downstream streamline segments.
 
-![](https://github.com/mattjbayly/samplecode_tmp/edit/master/img/samplenetwork.JPG)
+![](https://github.com/mattjbayly/samplecode_tmp/master/img/samplenetwork.JPG)
 
 In the second example a tool called 'BCFWA Stream Profile' is provided to show how custom R functionlaity can be used to develop dynamic displays and plot outputs (either in the processing window or exported as map PDFs/JPEGs). This example shows a vertical profile for a target stream section by extracting the Z dimension of the geometry.
 
-![](https://github.com/mattjbayly/samplecode_tmp/edit/master/img/streamprofile.JPG)
+![](https://github.com/mattjbayly/samplecode_tmp/master/img/streamprofile.JPG)
